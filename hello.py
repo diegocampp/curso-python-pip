@@ -1,1 +1,1 @@
-print("hola gitignore")
+print("hola gitignore y ya")
